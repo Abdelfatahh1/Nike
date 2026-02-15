@@ -1,7 +1,7 @@
 # Nike Air Max Plus Landing Page 🏀👟
 
 ## 🌐 Live Demo
-[View Live](#) *(replace with your GitHub Pages link)*
+[View Live](#) *(https://abdelfatahh1.github.io/Nike/)*
 
 ---
 
